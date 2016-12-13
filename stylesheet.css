@@ -1,0 +1,54 @@
+#navigation {
+  text-align: right;
+}
+li {
+    display: inline;
+    text-align: right;
+}
+
+#first {
+  text-align: center;
+}
+
+#image {
+    margin: auto;
+    width: 15%;
+    padding: 10px;
+}
+
+input[type=search]{
+    margin: -60px;
+    width: 160%;
+    padding: 5px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=submit]{
+   
+    margin: 10px;
+    padding: 5px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+.googleButton1{
+	width: 120px;
+	height: 35px;
+	background-color: #f2f2f2;
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #757575;
+	border-style: none;
+}
+
+#gB1A{
+	margin-right: 6px;
+}
+
+#gB1B{
+	margin-left: 6px;
+}
+
